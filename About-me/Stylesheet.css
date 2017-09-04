@@ -1,0 +1,99 @@
+nav {
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    border: 1px solid grey;
+    background-color: #3FEEE6;
+}
+
+body {
+    background-color: #55BCC9;
+    height: 100%;
+}
+
+a {
+    float: left;
+    display: block;
+    color: black;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    border-right: 1px solid grey;
+    font-family: sans-serif;
+}
+
+#github {
+    border-right: none;
+}
+
+a:hover {
+    background-color: white;
+    color: black;
+}
+
+h1 {
+    text-align: center;
+    font-family: garamond; 
+}
+
+h2 {
+    text-align: center;
+    font-family: garamond;
+}
+
+p {
+    text-align: justify;
+    font-family: arial;
+    width: 500px;
+    margin: 0;   
+    margin-left: auto;
+    margin-right: auto;
+    padding-bottom: 20px;    
+}
+
+img {
+    display: block;
+    margin: 0 auto;
+    padding-bottom: 30px;
+}
+
+footer {
+    bottom: 0;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    border: 1px solid grey;
+    background-color: #3FEEE6;
+}
+
+form {
+    width: 25%;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: lightgrey;
+    font-family: sans-serif;
+    border: 2px solid black;
+}
+
+table {
+    float: left;
+    margin-left: auto;
+    margin-right: auto;
+    border: 1px solid grey;
+    background-color: #3FEEE6
+    
+}
+
+#mailto {
+    border: 1px solid grey;
+    margin-top: 40%;
+    background-color: #3FEEE6;
+}
+
+ul {
+    font-family: garamond;
+}
+
+li {
+    font-family: garamond;
+}
